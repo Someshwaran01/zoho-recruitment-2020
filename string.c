@@ -11,7 +11,7 @@ int main()
   
   for (len = 0; str[len]!='\0'; len++);
 
-  /
+  
   for(int i=1; i<len; i++)
   {
     for(int j=i; j<len; j++)
